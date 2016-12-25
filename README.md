@@ -19,3 +19,6 @@ or via npm:
 ```console
 $ npm run server
 ```
+
+Open in a browser:
+``http://localhost:3000``
